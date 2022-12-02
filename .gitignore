@@ -1,0 +1,6 @@
+*.d
+*.bat
+*.exe
+/builds
+/.vscode
+/buildutils
